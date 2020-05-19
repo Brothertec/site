@@ -13,15 +13,15 @@ export default function Header() {
                 <h1>Soluções sob medida para impulsionar o <span>seu negócio</span></h1>
                 <div>
                     <span>Websites</span>
-                    <img src={websiteImg} alt="Website image" />
+                    <img src={websiteImg} alt="Website" />
                 </div>
                 <div>
                     <span>Aplicativos</span>
-                    <img src={aplicativosImg} alt="Aplicativos image" />
+                    <img src={aplicativosImg} alt="Aplicativos" />
                 </div>
                 <div>
                     <span>Sistemas Web</span>
-                    <img src={sistemasWebImg} alt="Sistemas image" />
+                    <img src={sistemasWebImg} alt="Sistemas" />
                 </div>
             </div>
         </header>
