@@ -1,3 +1,13 @@
-.nav-active{
-    color:#0063B1;
+.nav--brothertec .nav-link { 
+    color: rgba(0, 0, 0, 0.3);
 }
+
+.nav--brothertec .active .nav-link { 
+    color: #0063B1;
+}
+
+.nav--brothertec .navbar-toggler {
+    color: #0063B1;
+    border: 1px solid #D6D6D6;
+}
+
