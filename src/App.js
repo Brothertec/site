@@ -1,8 +1,16 @@
 import React from 'react';
+import Nav from './componentes/Nav';
+import Header from './componentes/Header';
+
+import './global.css';
 
 function App() {
   return (
-    nav()
+    <div>
+      <Nav />
+      <Header />
+    </div>
+
   );
 }
 
