@@ -1,0 +1,30 @@
+.integrante {
+    color: #303030;
+}
+
+.integrante-nome {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 130%;
+}
+
+.integrante-div-imagem{
+    text-align: center;
+}
+
+.integrante-imagem{
+    border-radius: 100%;
+    width: 88px;
+    height: 88px;
+}
+
+.integrante-funcao {
+    display: block;
+    text-align: center;
+}
+
+.integrante-descricao {
+    display: block;
+    text-align: center;   
+}
