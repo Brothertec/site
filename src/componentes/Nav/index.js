@@ -1,6 +1,6 @@
 import React from 'react';
 import logoImg from '../../img/logo-app.png';
-import {FaBars} from 'react-icons/fa'
+import {FaBars} from 'react-icons/fa';
 
 
 import './nav.css';

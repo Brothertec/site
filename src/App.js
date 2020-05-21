@@ -10,7 +10,9 @@ import './global.css';
 
 function App() {
   return (
-    <Integrante imagem={imgRomulo} nome="Romulo Gomes" funcao="Desenvolvedor" descricao="O mais Pika Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."/>
+   <div>
+     <Card/>
+   </div>
   )
 };
 
