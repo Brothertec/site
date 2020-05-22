@@ -1,0 +1,48 @@
+.section-sobre {
+    padding: 32px 0 32px 0;
+}
+
+@media (min-width: 576px) {
+    .section-sobre {
+        padding: 64px 0 64px 0;
+    }
+}
+
+.separador-mobile {
+    width: 64px;
+    border: 1px solid #C4C4C4;
+}
+
+@media (min-width: 576px) {
+    .separador-mobile {
+        display: none;
+    }
+}
+
+.sobre-titulo {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 1.5;
+    padding-bottom: 24px;
+    margin: 0;
+}
+
+@media (min-width: 576px) {
+    .sobre-titulo {
+        font-weight: 500;
+        font-size: 40px;
+    }
+}
+
+.sobre-descricao {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+@media (min-width: 576px) {
+    .sobre-descricao {
+        font-weight: 500;
+        font-size: 18px;
+    }
+}
