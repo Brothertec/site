@@ -1,4 +1,4 @@
-.header{
+.banner {
     background-image: url("../../img/bg-header.png");
     background-repeat: repeat;    
     width: 100%; 
@@ -6,14 +6,21 @@
     color: #FFFFFF;
     font-weight: 500;
     padding-top: 56px;
+    margin-top: 54px;
     
+}
+
+@media (min-width: 576px) {
+    .banner {
+        margin-top: 81px;
+    }
 }
 
 div .titulo{
     padding-bottom: 42px;
 }
 
-.header h1{
+.banner h1{
     font-weight: 500;
     font-size: 24px;
     text-align: center;
@@ -21,17 +28,17 @@ div .titulo{
 }
 
 @media (min-width: 576px) {
-    .header h1{
+    .banner h1{
         font-size: 40px;
     }
 }
 
-.header h1 span{
+.banner h1 span{
     font-size: 35px;
 }
 
 @media (min-width: 576px) {
-    .header h1 span{
+    .banner h1 span{
         font-size: 62px;
     }
 }
@@ -87,13 +94,5 @@ div .titulo{
     }
 }
 
-
-/* .website-icon-container{
-    width: 100%;
-    font-size: 20px;
-    display: flex;
-    padding-top: 42px;
-    justify-content: space-between;
-} */
 
 

@@ -4,11 +4,11 @@ import websiteImg from '../../img/websites.png';
 import aplicativosImg from '../../img/aplicativos.png';
 import sistemasWebImg from '../../img/sistemas-web.png';
 
-import './header.css';
+import './banner.css';
 
-export default function Header() {
+export default function Banner() {
     return (
-        <header className="header">
+        <section className="banner" id="banner">
             <div className="container">
                 <div className="titulo">
                     <h1>Soluções sob medida<br />para impulsionar o <br /><span>seu negócio</span></h1>
@@ -28,6 +28,6 @@ export default function Header() {
                     </div>
                 </div>
             </div>
-        </header>
+        </section>
     )
 }

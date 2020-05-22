@@ -7,7 +7,7 @@ import './sobre.css';
 
 export default function Sobre() {
     return (
-        <section className="section-sobre">
+        <section className="section-sobre" id="sobre">
             <div className="container">
                 <h2 className="sobre-titulo">Sobre nós</h2>
                 <p className="sobre-descricao">A BrotherTec surgiu da iniciativa de amigos profissionais da área da TI que perceberam que, juntos, possuem habilidades que se completam para desenvolver e conduzir projetos web de sucesso.</p>

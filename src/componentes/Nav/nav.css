@@ -1,8 +1,46 @@
-.nav--brothertec .nav-link { 
-    color: rgba(0, 0, 0, 0.3);
+.nav--brothertec{
+    line-height: 1;
+    background-color: #fff;    
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
 
-.nav--brothertec .active .nav-link { 
+@media (min-width: 576px){
+    .nav--brothertec{
+        padding-top: 5px; 
+        padding-bottom: 5px; 
+    }
+}
+
+.navbar-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.nav-imagem {
+    width: 205px;
+    height: 50px;
+}
+
+@media (min-width: 576px){
+    .nav-imagem {
+        width: 293px;
+        height: 71px;
+    }
+}
+
+.nav--brothertec .nav-link { 
+    color: rgba(0, 0, 0, 0.3);
+    font-size: 16px;
+}
+
+@media (min-width: 576px){
+    .nav--brothertec .nav-link { 
+        font-size: 20px;
+    }
+}
+
+.nav--brothertec .nav-link.selected { 
     color: #0063B1;
 }
 
