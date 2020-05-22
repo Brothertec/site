@@ -3,6 +3,8 @@ import Nav from './componentes/Nav';
 import Header from './componentes/Header';
 
 import Card from './componentes/Card';
+import Projetos from './componentes/Projetos';
+
 
 
 
@@ -15,6 +17,7 @@ function App() {
       <Nav />
       <Header />
       <Sobre />
+      <Projetos />
     </div>
   )
 };
