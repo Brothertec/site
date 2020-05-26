@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/siteBrothertec/static/css/main.34336c04.chunk.css",
-    "main.js": "/siteBrothertec/static/js/main.542feb62.chunk.js",
-    "main.js.map": "/siteBrothertec/static/js/main.542feb62.chunk.js.map",
-    "runtime-main.js": "/siteBrothertec/static/js/runtime-main.8f493dd7.js",
-    "runtime-main.js.map": "/siteBrothertec/static/js/runtime-main.8f493dd7.js.map",
-    "static/js/2.5851f276.chunk.js": "/siteBrothertec/static/js/2.5851f276.chunk.js",
-    "static/js/2.5851f276.chunk.js.map": "/siteBrothertec/static/js/2.5851f276.chunk.js.map",
-    "index.html": "/siteBrothertec/index.html",
-    "precache-manifest.cf2131600567d2a3db1e2944ca2b7f89.js": "/siteBrothertec/precache-manifest.cf2131600567d2a3db1e2944ca2b7f89.js",
-    "service-worker.js": "/siteBrothertec/service-worker.js",
-    "static/css/main.34336c04.chunk.css.map": "/siteBrothertec/static/css/main.34336c04.chunk.css.map",
-    "static/js/2.5851f276.chunk.js.LICENSE.txt": "/siteBrothertec/static/js/2.5851f276.chunk.js.LICENSE.txt",
-    "static/media/contato.css": "/siteBrothertec/static/media/bg-header.471d0623.png",
-    "static/media/card-image.png": "/siteBrothertec/static/media/card-image.eb77f198.png",
-    "static/media/everson.jpeg": "/siteBrothertec/static/media/everson.d7c59b8f.jpeg",
-    "static/media/nayra.jpeg": "/siteBrothertec/static/media/nayra.f58415a0.jpeg",
-    "static/media/romulo.jpeg": "/siteBrothertec/static/media/romulo.4239722f.jpeg"
+    "main.css": "/static/css/main.3c277918.chunk.css",
+    "main.js": "/static/js/main.542feb62.chunk.js",
+    "main.js.map": "/static/js/main.542feb62.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ff1f327d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ff1f327d.js.map",
+    "static/js/2.5851f276.chunk.js": "/static/js/2.5851f276.chunk.js",
+    "static/js/2.5851f276.chunk.js.map": "/static/js/2.5851f276.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c015b318efb7ba32a8692cea990a0529.js": "/precache-manifest.c015b318efb7ba32a8692cea990a0529.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3c277918.chunk.css.map": "/static/css/main.3c277918.chunk.css.map",
+    "static/js/2.5851f276.chunk.js.LICENSE.txt": "/static/js/2.5851f276.chunk.js.LICENSE.txt",
+    "static/media/contato.css": "/static/media/bg-header.471d0623.png",
+    "static/media/card-image.png": "/static/media/card-image.eb77f198.png",
+    "static/media/everson.jpeg": "/static/media/everson.d7c59b8f.jpeg",
+    "static/media/nayra.jpeg": "/static/media/nayra.f58415a0.jpeg",
+    "static/media/romulo.jpeg": "/static/media/romulo.4239722f.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f493dd7.js",
+    "static/js/runtime-main.ff1f327d.js",
     "static/js/2.5851f276.chunk.js",
-    "static/css/main.34336c04.chunk.css",
+    "static/css/main.3c277918.chunk.css",
     "static/js/main.542feb62.chunk.js"
   ]
 }
