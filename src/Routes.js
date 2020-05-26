@@ -14,16 +14,16 @@ import BrotherTec from './componentes/BrotherTec';
 export default function Routes(props) {
     return (
         <div>
-        <header>
-            {/* <Nav /> */}
-            <Banner />
-        </header>
-        <main className= "main">
-            <Projetos />
-            <Sobre />
-            <Contato />
-        </main>
-        <Footer />
-    </div>
+            <header>
+                {/* <Nav /> */}
+                <Banner />
+            </header>
+            <main className="main">
+                <Projetos />
+                <Sobre />
+                <Contato />
+            </main>
+            <Footer />
+        </div>
     );
 }
