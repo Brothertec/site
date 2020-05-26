@@ -10,7 +10,7 @@ export default function BrotherTec() {
     return (
         <div>
             <header>
-                {/* <Nav /> */}
+                <Nav />
                 <Banner />
             </header>
             <main className= "main">
