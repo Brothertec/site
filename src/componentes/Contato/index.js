@@ -8,7 +8,7 @@ import './contato.css';
 
 export default function Contato() {
     return (
-        <section className="contato" id="">
+        <section className="contato" id="contato">
 
             <div className="container">
                 <div className="tamanho-contato">

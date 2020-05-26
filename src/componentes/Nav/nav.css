@@ -30,7 +30,7 @@
 }
 
 .nav--brothertec .nav-link { 
-    color: rgba(0, 0, 0, 0.3);
+    color: #5F5F5E;
     font-size: 16px;
 }
 
@@ -42,9 +42,17 @@
 
 .nav--brothertec .nav-link.selected { 
     color: #0063B1;
+    font-weight: 500;
 }
 
 .nav--brothertec .navbar-toggler {
     color: #0063B1;
     border: 1px solid #D6D6D6;
 }
+
+@media(min-width: 992px){
+    .nav-item--brothertec{
+        padding-left: 48px;
+    }
+}
+

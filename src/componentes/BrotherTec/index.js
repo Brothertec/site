@@ -4,6 +4,7 @@ import Banner from '../Banner';
 import Sobre from '../Sobre';
 import Projetos from '../Projetos';
 import Footer from '../Footer';
+import Contato from '../Contato';
 
 export default function BrotherTec() {
     return (
@@ -15,6 +16,7 @@ export default function BrotherTec() {
             <main className= "main">
                 <Projetos />
                 <Sobre />
+                <Contato />
             </main>
             <Footer />
         </div>

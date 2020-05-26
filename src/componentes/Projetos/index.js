@@ -10,19 +10,12 @@ export default function Projetos() {
             <div className="container">
                 <h2 className= "projeto-titulo">Projetos</h2>
                 <div className="row row-cols-1 row-cols-sm-2">
-                    <div className="col mb-4">
+                    <div className="col mb-4 offset-sm-3">
                         <Card imagem={cardImg}
                             badge="Website"
                             titulo="Colégio Jardim Getsêmani"
-                            texto="site colegio não sei o que exigiu não sei mais o que e foi idealizado não sei o que, produzido não sei que mais, visual trabalhado para publico infantil, com cores não sei o que, e precisou de não sei mais, com um toque de não sei o que mais e não sei o que lá"
-                            botao="" />
-                    </div>
-                    <div className="col mb-4">
-                        <Card imagem={cardImg}
-                            badge="Website"
-                            titulo="Colégio Jardim Getsêmani"
-                            texto="site colegio não sei o que exigiu não sei mais o que e foi idealizado não sei o que, produzido não sei que mais, visual trabalhado para publico infantil, com cores não sei o que, e precisou de não sei mais, com um toque de não sei o que mais e não sei o que lá"
-                            botao="" />
+                            texto="Website provisório desenvolvido para o Colégio Jardim Getsêmani em caráter emergencial devido às necessidades de educação à distância por conta da pandemia do Covid-19. Projeto permanente em desenvolvimento."
+                            botao="http://www.colegiojardimgetsemani.com.br/" />
                     </div>
                 </div>
             </div>

@@ -6,8 +6,7 @@ import Contato from './componentes/Contato'
 
 function App() {
   return (
-    // <Routes/>
-    <Contato/>
+    <Routes/>
   );
 };
 

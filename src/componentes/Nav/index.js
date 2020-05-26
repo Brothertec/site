@@ -32,13 +32,13 @@ export default function Nav() {
                         <li className="nav-item">
                             <NavHashLink className="nav-link selected" smooth to="/#banner" exact onClick={(e) =>setActive(e)}>Início</NavHashLink>
                         </li>
-                        <li className="nav-item">
+                        <li className="nav-item nav-item--brothertec">
                             <NavHashLink className="nav-link" smooth to="/#projetos" exact onClick={(e) =>setActive(e)}>Projetos</NavHashLink>
                         </li>
-                        <li className="nav-item">
+                        <li className="nav-item nav-item--brothertec">
                             <NavHashLink className="nav-link" smooth to="/#sobre" exact onClick={(e) =>setActive(e)}>Sobre nós</NavHashLink>
                         </li>
-                        <li className="nav-item">
+                        <li className="nav-item nav-item--brothertec">
                             <NavHashLink className="nav-link" smooth to="/#contato" exact onClick={(e) =>setActive(e)}>Contato</NavHashLink>
                         </li>
                     </ul>

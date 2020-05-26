@@ -11,7 +11,7 @@ export default function Card(props) {
         <span className="badge badge-card">{props.badge}</span>
         <h5 className="card-title titulo-card">{props.titulo}</h5>
         <p className="card-text texto-card">{props.texto}</p>
-        <a href="#" className="btn btn-primary botao-card ">Acessar projeto</a>
+        <a href={props.botao} className="btn btn-primary botao-card" target="_blank">Acessar projeto</a>
       </div>
     </div>
   );

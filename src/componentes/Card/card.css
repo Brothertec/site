@@ -1,11 +1,11 @@
-.card--brothertec{
+/* .card--brothertec{
     max-width: 288px;
-}
-@media (min-width: 576px) {
+} */
+/* @media (min-width: 576px) {
     .card--brothertec{
         max-width: 536px;
     }
-}
+} */
 .imagem-card{
     border-bottom: 1px solid #C4C4C4;
 
