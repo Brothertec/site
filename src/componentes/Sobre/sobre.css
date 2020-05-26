@@ -11,6 +11,7 @@
 .separador-mobile {
     width: 64px;
     border: 1px solid #C4C4C4;
+    background-color: #C4C4C4;
 }
 
 @media (min-width: 576px) {
