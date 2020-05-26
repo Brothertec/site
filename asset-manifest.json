@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/site/static/css/main.c6555d37.chunk.css",
+    "main.js": "/site/static/js/main.e8362f7a.chunk.js",
+    "main.js.map": "/site/static/js/main.e8362f7a.chunk.js.map",
+    "runtime-main.js": "/site/static/js/runtime-main.8737767f.js",
+    "runtime-main.js.map": "/site/static/js/runtime-main.8737767f.js.map",
+    "static/js/2.5851f276.chunk.js": "/site/static/js/2.5851f276.chunk.js",
+    "static/js/2.5851f276.chunk.js.map": "/site/static/js/2.5851f276.chunk.js.map",
+    "index.html": "/site/index.html",
+    "precache-manifest.8a5d5df01281b5012d47291393143159.js": "/site/precache-manifest.8a5d5df01281b5012d47291393143159.js",
+    "service-worker.js": "/site/service-worker.js",
+    "static/css/main.c6555d37.chunk.css.map": "/site/static/css/main.c6555d37.chunk.css.map",
+    "static/js/2.5851f276.chunk.js.LICENSE.txt": "/site/static/js/2.5851f276.chunk.js.LICENSE.txt",
+    "static/media/contato.css": "/site/static/media/bg-header.471d0623.png",
+    "static/media/card-image.png": "/site/static/media/card-image.eb77f198.png",
+    "static/media/everson.jpeg": "/site/static/media/everson.58d72dd7.jpeg",
+    "static/media/nayra.jpeg": "/site/static/media/nayra.f58415a0.jpeg",
+    "static/media/romulo.jpeg": "/site/static/media/romulo.4239722f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8737767f.js",
+    "static/js/2.5851f276.chunk.js",
+    "static/css/main.c6555d37.chunk.css",
+    "static/js/main.e8362f7a.chunk.js"
+  ]
+}
