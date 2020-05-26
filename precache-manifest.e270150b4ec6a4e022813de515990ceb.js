@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd914532ff80b0acd15c45bd8ae9e3bd",
+    "revision": "73fb495c22c8a9466b76a73d27ee1ad8",
     "url": "/siteBrothertec/index.html"
   },
   {
-    "revision": "227a5841bf27c0164be6",
-    "url": "/siteBrothertec/static/css/main.50b4d434.chunk.css"
+    "revision": "7fcd2c7d4d77841665c9",
+    "url": "/siteBrothertec/static/css/main.67c96d53.chunk.css"
   },
   {
-    "revision": "0ca78c8a3c36d76b1821",
-    "url": "/siteBrothertec/static/js/2.4ea92a84.chunk.js"
+    "revision": "500298b3b37f87d07470",
+    "url": "/siteBrothertec/static/js/2.5851f276.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/siteBrothertec/static/js/2.4ea92a84.chunk.js.LICENSE.txt"
+    "url": "/siteBrothertec/static/js/2.5851f276.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "227a5841bf27c0164be6",
-    "url": "/siteBrothertec/static/js/main.e1ec3b8a.chunk.js"
+    "revision": "7fcd2c7d4d77841665c9",
+    "url": "/siteBrothertec/static/js/main.9a585a55.chunk.js"
   },
   {
     "revision": "d7f555ee3d342612d11e",
