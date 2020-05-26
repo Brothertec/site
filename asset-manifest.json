@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/site/static/css/main.a90f1854.chunk.css",
-    "main.js": "/site/static/js/main.e1ec3b8a.chunk.js",
-    "main.js.map": "/site/static/js/main.e1ec3b8a.chunk.js.map",
-    "runtime-main.js": "/site/static/js/runtime-main.8737767f.js",
-    "runtime-main.js.map": "/site/static/js/runtime-main.8737767f.js.map",
-    "static/js/2.4ea92a84.chunk.js": "/site/static/js/2.4ea92a84.chunk.js",
-    "static/js/2.4ea92a84.chunk.js.map": "/site/static/js/2.4ea92a84.chunk.js.map",
-    "index.html": "/site/index.html",
-    "precache-manifest.b3317b4e1b36b22600c36752c31dcf2a.js": "/site/precache-manifest.b3317b4e1b36b22600c36752c31dcf2a.js",
-    "service-worker.js": "/site/service-worker.js",
-    "static/css/main.a90f1854.chunk.css.map": "/site/static/css/main.a90f1854.chunk.css.map",
-    "static/js/2.4ea92a84.chunk.js.LICENSE.txt": "/site/static/js/2.4ea92a84.chunk.js.LICENSE.txt",
-    "static/media/contato.css": "/site/static/media/bg-header.471d0623.png",
-    "static/media/card-image.png": "/site/static/media/card-image.eb77f198.png",
-    "static/media/everson.jpeg": "/site/static/media/everson.58d72dd7.jpeg",
-    "static/media/nayra.jpeg": "/site/static/media/nayra.f58415a0.jpeg",
-    "static/media/romulo.jpeg": "/site/static/media/romulo.4239722f.jpeg"
+    "main.css": "/siteBrothertec/static/css/main.50b4d434.chunk.css",
+    "main.js": "/siteBrothertec/static/js/main.e1ec3b8a.chunk.js",
+    "main.js.map": "/siteBrothertec/static/js/main.e1ec3b8a.chunk.js.map",
+    "runtime-main.js": "/siteBrothertec/static/js/runtime-main.8f493dd7.js",
+    "runtime-main.js.map": "/siteBrothertec/static/js/runtime-main.8f493dd7.js.map",
+    "static/js/2.4ea92a84.chunk.js": "/siteBrothertec/static/js/2.4ea92a84.chunk.js",
+    "static/js/2.4ea92a84.chunk.js.map": "/siteBrothertec/static/js/2.4ea92a84.chunk.js.map",
+    "index.html": "/siteBrothertec/index.html",
+    "precache-manifest.498f7183fbe479dd05546ed269bd6ead.js": "/siteBrothertec/precache-manifest.498f7183fbe479dd05546ed269bd6ead.js",
+    "service-worker.js": "/siteBrothertec/service-worker.js",
+    "static/css/main.50b4d434.chunk.css.map": "/siteBrothertec/static/css/main.50b4d434.chunk.css.map",
+    "static/js/2.4ea92a84.chunk.js.LICENSE.txt": "/siteBrothertec/static/js/2.4ea92a84.chunk.js.LICENSE.txt",
+    "static/media/contato.css": "/siteBrothertec/static/media/bg-header.471d0623.png",
+    "static/media/card-image.png": "/siteBrothertec/static/media/card-image.eb77f198.png",
+    "static/media/everson.jpeg": "/siteBrothertec/static/media/everson.58d72dd7.jpeg",
+    "static/media/nayra.jpeg": "/siteBrothertec/static/media/nayra.f58415a0.jpeg",
+    "static/media/romulo.jpeg": "/siteBrothertec/static/media/romulo.4239722f.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8737767f.js",
+    "static/js/runtime-main.8f493dd7.js",
     "static/js/2.4ea92a84.chunk.js",
-    "static/css/main.a90f1854.chunk.css",
+    "static/css/main.50b4d434.chunk.css",
     "static/js/main.e1ec3b8a.chunk.js"
   ]
 }
