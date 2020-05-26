@@ -14,8 +14,23 @@
     line-height: 1.5;
 }
 
+@media (min-width: 576px){
+    .contato-titulo{
+        font-size: 40px;
+    }
+}
+
 .form-contato{
 margin-bottom: 40px;
+}
+
+@media (min-width: 576px){
+    .tamanho-contato{
+        max-width: 730px;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
 }
 
 .btn-contato{
@@ -37,10 +52,17 @@ margin-bottom: 40px;
     color: #FFFFFF;
    
 }
-.icon-center{
+
+.contato-icone{
+    display: inline-block;
     text-align: center;
+    width: 100%;
+    padding: 0;
 }
 
-.icon-end{
-    text-align: right;
+.icone-meio{
+    margin-left: 84px;
+    margin-right: 84px;
+    
 }
+
