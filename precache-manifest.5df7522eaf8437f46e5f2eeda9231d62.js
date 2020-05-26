@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73fb495c22c8a9466b76a73d27ee1ad8",
+    "revision": "6a3bb7e76975981eb178a5fd77af78d8",
     "url": "/siteBrothertec/index.html"
   },
   {
-    "revision": "7fcd2c7d4d77841665c9",
-    "url": "/siteBrothertec/static/css/main.67c96d53.chunk.css"
+    "revision": "047f9e8f9a2419a34705",
+    "url": "/siteBrothertec/static/css/main.5b7bf932.chunk.css"
   },
   {
     "revision": "500298b3b37f87d07470",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/siteBrothertec/static/js/2.5851f276.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7fcd2c7d4d77841665c9",
-    "url": "/siteBrothertec/static/js/main.9a585a55.chunk.js"
+    "revision": "047f9e8f9a2419a34705",
+    "url": "/siteBrothertec/static/js/main.0a67df3f.chunk.js"
   },
   {
     "revision": "d7f555ee3d342612d11e",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/siteBrothertec/static/media/card-image.eb77f198.png"
   },
   {
-    "revision": "58d72dd730c972fcab00129095a2bed3",
-    "url": "/siteBrothertec/static/media/everson.58d72dd7.jpeg"
+    "revision": "d7c59b8fda9d2bb4af83b3f91dd5a053",
+    "url": "/siteBrothertec/static/media/everson.d7c59b8f.jpeg"
   },
   {
     "revision": "f58415a04b8de17870fe48d61374bbd1",
