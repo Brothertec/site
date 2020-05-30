@@ -13,7 +13,7 @@ export default function Contato() {
             <div className="container">
                 <div className="tamanho-contato">
                     <h2 className="contato-titulo">Contato</h2>
-                    <form className="form-contato">
+                    <form className="form-contato" action="https://getform.io/f/40603fc2-c339-43c1-bfcf-263957c3d2d6" method="POST">
 
                         <div className="form-group ">
                             <input type="text" className="form-control" id="NomeForm" placeholder="Nome" />
