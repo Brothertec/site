@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8cbe2d3da74c529cbcf71ff60e334c9",
+    "revision": "a05a463fdb34275e04bfcdd195057bf4",
     "url": "/siteBrothertec/index.html"
   },
   {
-    "revision": "e3a15c65eb550306c5ee",
+    "revision": "0a9dd18339ca3f48e35b",
     "url": "/siteBrothertec/static/css/main.12ac40af.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/siteBrothertec/static/js/2.5851f276.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3a15c65eb550306c5ee",
-    "url": "/siteBrothertec/static/js/main.fd3b5916.chunk.js"
+    "revision": "0a9dd18339ca3f48e35b",
+    "url": "/siteBrothertec/static/js/main.44f5a72f.chunk.js"
   },
   {
     "revision": "d7f555ee3d342612d11e",
