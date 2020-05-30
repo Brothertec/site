@@ -1,15 +1,15 @@
 import React from 'react';
 
-import { HashRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 import BrotherTec from './componentes/BrotherTec';
 
 export default function Routes(props) {
     return (
-        <HashRouter>
+        <BrowserRouter>
             <Switch>
                 <Route path="/" exact component = {BrotherTec}/>
             </Switch>
-        </HashRouter>
+        </BrowserRouter>
     );
 }
