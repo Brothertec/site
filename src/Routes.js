@@ -6,7 +6,7 @@ import BrotherTec from './componentes/BrotherTec';
 
 export default function Routes(props) {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/siteBrothertec">
             <Switch>
                 <Route path="/" exact component = {BrotherTec}/>
             </Switch>
