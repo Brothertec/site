@@ -14,7 +14,7 @@
     line-height: 1.5;
 }
 
-@media (min-width: 576px){
+@media (min-width: 992px){
     .contato-titulo{
         font-size: 40px;
     }
@@ -24,7 +24,7 @@
 margin-bottom: 40px;
 }
 
-@media (min-width: 576px){
+@media (min-width: 992px){
     .tamanho-contato{
         max-width: 730px;
         margin-left: auto;
@@ -66,3 +66,16 @@ margin-bottom: 40px;
     
 }
 
+.link-icone{
+    color: inherit;
+}
+
+.link-icone:visited{
+    color: inherit;
+}
+.link-icone:hover{
+    color: inherit;
+}
+.link-icone:active{
+    color: inherit;
+}

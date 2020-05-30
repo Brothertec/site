@@ -10,7 +10,7 @@
     
 }
 
-@media (min-width: 576px) {
+@media (min-width: 992px) {
     .banner {
         margin-top: 81px;
     }
@@ -27,7 +27,7 @@ div .titulo{
     
 }
 
-@media (min-width: 576px) {
+@media (min-width: 992px) {
     .banner h1{
         font-size: 40px;
     }
@@ -37,7 +37,7 @@ div .titulo{
     font-size: 35px;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 992px) {
     .banner h1 span{
         font-size: 62px;
     }
@@ -58,7 +58,7 @@ div .titulo{
     font-size: 20px;
 }
 
-@media (min-width: 576px){
+@media (min-width: 992px){
     .icon-title{
         font-size: 24px;
     }
@@ -74,7 +74,7 @@ div .titulo{
     
 }
 
-@media (min-width: 576px){
+@media (min-width: 992px){
     .icon-image{
         width: 128px;
         height: 128px;
@@ -87,7 +87,7 @@ div .titulo{
     margin-bottom: 32px;
 }
 
-@media (min-width: 576px){
+@media (min-width: 992px){
     .website{
         width: 128px;
         height: 128px;

@@ -2,7 +2,7 @@
     padding: 32px 0 32px 0;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 992px) {
     .section-sobre {
         padding: 64px 0 64px 0;
     }
@@ -14,7 +14,7 @@
     background-color: #C4C4C4;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 992px) {
     .separador-mobile {
         display: none;
     }
@@ -28,7 +28,7 @@
     margin: 0;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 992px) {
     .sobre-titulo {
         font-weight: 500;
         font-size: 40px;
@@ -41,7 +41,7 @@
     line-height: 1.5;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 992px) {
     .sobre-descricao {
         font-weight: 500;
         font-size: 18px;

@@ -35,9 +35,10 @@ export default function Contato() {
             </div>
             <div className="contato-icone">
 
-                <span className="whats-icon icone-contato"><FaWhatsappSquare /></span>
-                <span className="face-icon icone-contato icone-meio "><FaFacebookSquare /></span>
-                <span className="insta-icon icone-contato "><FaInstagramSquare /></span>
+                <span className="whats-icon icone-contato "><a className="link-icone" href="https://api.whatsapp.com/send?phone=5561982213275" target="_blank"><FaWhatsappSquare /></a></span>
+                <span className="face-icon icone-contato icone-meio "><a className="link-icone" href="https://www.facebook.com/BrotherTECTI" target="_blank"><FaFacebookSquare /></a></span>
+                <span className="insta-icon icone-contato "><a className="link-icone" href="https://www.instagram.com/brothertecti/?hl=pt-br" target="_blank"><FaInstagramSquare /></a></span>
+
             </div>
 
         </section >
