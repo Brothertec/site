@@ -3,7 +3,7 @@
     padding: 32px 0;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 992px) {
     .projetos{
         padding: 64px 0;
     }
@@ -15,7 +15,7 @@
     padding-bottom: 24px;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 992px) {
     .projeto-titulo{
         font-weight: 500;
         font-size: 40px;

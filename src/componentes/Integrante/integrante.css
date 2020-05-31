@@ -13,7 +13,7 @@
     padding-top: 16px;
 }
 
-@media (min-width:576px){
+@media (min-width:992px){
     .integrante-nome {
         font-size: 20px;
     }
@@ -38,7 +38,7 @@
     line-height: 1.3;
 }
 
-@media (min-width:576px){
+@media (min-width:992px){
     .integrante-funcao {
         font-size: 18px;
     }
@@ -52,7 +52,7 @@
     line-height: 1.3;
 }
 
-@media (min-width:576px){
+@media (min-width:992px){
     .integrante-descricao {
         font-size: 18px;
     }

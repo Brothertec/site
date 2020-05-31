@@ -5,7 +5,7 @@
     padding-bottom: 2px;
 }
 
-@media (min-width: 576px){
+@media (min-width: 992px){
     .nav--brothertec{
         padding-top: 5px; 
         padding-bottom: 5px; 
@@ -22,7 +22,7 @@
     height: 50px;
 }
 
-@media (min-width: 576px){
+@media (min-width: 992px){
     .nav-imagem {
         width: 293px;
         height: 72px;
@@ -34,7 +34,7 @@
     font-size: 16px;
 }
 
-@media (min-width: 576px){
+@media (min-width: 992px){
     .nav--brothertec .nav-link { 
         font-size: 20px;
     }
