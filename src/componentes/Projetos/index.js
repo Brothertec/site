@@ -15,7 +15,7 @@ export default function Projetos() {
                             badge="Website"
                             titulo="Colégio Jardim Getsêmani"
                             texto="Website provisório desenvolvido para o Colégio Jardim Getsêmani em caráter emergencial devido às necessidades de educação à distância por conta da pandemia do Covid-19. Projeto permanente em desenvolvimento."
-                            botao="https://trello.com/b/mAf3JWJn/site-col%C3%A9gio-jardim-gets%C3%AAmani-20"/>
+                            botao="http://www.colegiojardimgetsemani.com.br/" />
                     </div>
                 </div>
             </div>
