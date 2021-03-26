@@ -1,49 +1,55 @@
 .section-sobre {
-    padding: 32px 0 32px 0;
+  padding: 32px 0 32px 0;
 }
 
 @media (min-width: 992px) {
-    .section-sobre {
-        padding: 64px 0 64px 0;
-    }
+  .section-sobre {
+    padding: 64px 0 64px 0;
+  }
 }
 
 .separador-mobile {
-    width: 64px;
-    border: 1px solid #C4C4C4;
-    background-color: #C4C4C4;
+  width: 64px;
+  border: 1px solid #c4c4c4;
+  background-color: #c4c4c4;
 }
 
-@media (min-width: 992px) {
-    .separador-mobile {
-        display: none;
-    }
+@media (min-width: 768px) {
+  .separador-mobile {
+    display: none;
+  }
 }
 
 .sobre-titulo {
-    font-weight: bold;
-    font-size: 24px;
-    line-height: 1.5;
-    padding-bottom: 24px;
-    margin: 0;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 1.5;
+  padding-bottom: 24px;
+  margin: 0;
 }
 
 @media (min-width: 992px) {
-    .sobre-titulo {
-        font-weight: 500;
-        font-size: 40px;
-    }
+  .sobre-titulo {
+    font-weight: 500;
+    font-size: 40px;
+  }
 }
 
 .sobre-descricao {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 @media (min-width: 992px) {
-    .sobre-descricao {
-        font-weight: 500;
-        font-size: 18px;
-    }
+  .sobre-descricao {
+    font-weight: 500;
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 768px) {
+  .l-integrante {
+    margin-bottom: 20px;
+  }
 }
