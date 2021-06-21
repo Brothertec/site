@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.ddca24da.chunk.css",
-    "main.js": "/static/js/main.67aeb9c4.chunk.js",
-    "main.js.map": "/static/js/main.67aeb9c4.chunk.js.map",
+    "main.css": "/static/css/main.73ad53d3.chunk.css",
+    "main.js": "/static/js/main.6a13863e.chunk.js",
+    "main.js.map": "/static/js/main.6a13863e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ff1f327d.js",
     "runtime-main.js.map": "/static/js/runtime-main.ff1f327d.js.map",
-    "static/js/2.5851f276.chunk.js": "/static/js/2.5851f276.chunk.js",
-    "static/js/2.5851f276.chunk.js.map": "/static/js/2.5851f276.chunk.js.map",
+    "static/js/2.0190a2e4.chunk.js": "/static/js/2.0190a2e4.chunk.js",
+    "static/js/2.0190a2e4.chunk.js.map": "/static/js/2.0190a2e4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.85d142b5e67c0f4978d3ca17d2119121.js": "/precache-manifest.85d142b5e67c0f4978d3ca17d2119121.js",
+    "precache-manifest.02f7947553f969a6ff9a0b5676006026.js": "/precache-manifest.02f7947553f969a6ff9a0b5676006026.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ddca24da.chunk.css.map": "/static/css/main.ddca24da.chunk.css.map",
-    "static/js/2.5851f276.chunk.js.LICENSE.txt": "/static/js/2.5851f276.chunk.js.LICENSE.txt",
+    "static/css/main.73ad53d3.chunk.css.map": "/static/css/main.73ad53d3.chunk.css.map",
+    "static/js/2.0190a2e4.chunk.js.LICENSE.txt": "/static/js/2.0190a2e4.chunk.js.LICENSE.txt",
     "static/media/contato.css": "/static/media/bg-header.471d0623.png",
     "static/media/card-image.png": "/static/media/card-image.eb77f198.png",
     "static/media/everson.jpeg": "/static/media/everson.d7c59b8f.jpeg",
-    "static/media/nayra.jpeg": "/static/media/nayra.f58415a0.jpeg",
-    "static/media/romulo.jpeg": "/static/media/romulo.4239722f.jpeg"
+    "static/media/nayra.jpg": "/static/media/nayra.96675c31.jpg",
+    "static/media/rodrigo.jpg": "/static/media/rodrigo.6a8efaca.jpg",
+    "static/media/romulo.jpeg": "/static/media/romulo.4239722f.jpeg",
+    "static/media/vanessa.jpg": "/static/media/vanessa.711c721e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ff1f327d.js",
-    "static/js/2.5851f276.chunk.js",
-    "static/css/main.ddca24da.chunk.css",
-    "static/js/main.67aeb9c4.chunk.js"
+    "static/js/2.0190a2e4.chunk.js",
+    "static/css/main.73ad53d3.chunk.css",
+    "static/js/main.6a13863e.chunk.js"
   ]
 }
