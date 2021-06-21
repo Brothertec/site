@@ -38,7 +38,7 @@ export default function Sobre() {
                 imagem={imgRomulo}
                 nome="Romulo Gomes"
                 funcao="Desenvolvedor"
-                descricao="Atuo na área de TI desde 2015. Minha especialidade é automação de testes, homologação e desenvolvimento de sistemas Java, Node.js e React. Sempre em busca de novos desafios! Sou um dos mentores na BrotherTec para nossos cooperados."
+                descricao="Atuo na área de TI desde 2015. Minha especialidade é automação de testes, homologação e desenvolvimento de sistemas Java, Node.js e React. Sempre em busca de novos desafios! Realizo mentorias para nossos cooperados."
               />
             </div>
             <hr className="separador-mobile" />
@@ -48,7 +48,7 @@ export default function Sobre() {
               <Integrante
                 imagem={imgEverson}
                 nome="Everson França"
-                funcao="Desenvolvedor Fullstack"
+                funcao="Desenvolvedor Full Stack"
                 descricao="Sou um dos idealizadores da cooperativa. Atuo com programação front-end, iniciando pelo HTML, CSS e JS até o desenvolvimento mais avançado com React e consumo de APIs. Repasso os conhecimentos que possuo para os cooperados da BrotherTec."
               />
             </div>
@@ -60,7 +60,7 @@ export default function Sobre() {
                 imagem={imgRodrigo}
                 nome="Rodrigo Sales"
                 funcao="Desenvolvedor Full Stack"
-                descricao="Trabalho na área de TI desde de 2014. Iniciei com suporte e monitoramento dos ativos de rede e sua estrutura. Em busca de novos desafios, entrei de cabeça nos estudos para ser o melhor desenvolvedor full stack, onde, atualmente, dedico quase 100% do meu tempo."
+                descricao="Trabalho na área de TI desde de 2014. Iniciei com suporte e monitoramento dos ativos de rede e sua estrutura. Em busca de novos desafios, entrei de cabeça nos estudos para ser o melhor desenvolvedor full stack, onde, atualmente, dedico grande parte do meu tempo."
               />
             </div>
           </div>
