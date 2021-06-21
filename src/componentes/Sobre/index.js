@@ -3,9 +3,10 @@ import React from 'react';
 import Integrante from '../Integrante';
 
 import imgRomulo from '../../img/romulo.jpeg';
-import imgNayra from '../../img/nayra.jpeg';
-import imgEverson from '../../img/everson.jpeg';
+import imgNayra from '../../img/nayra.jpg';
+//import imgEverson from '../../img/everson.jpeg';
 import imgRodrigo from '../../img/rodrigo.jpg';
+import imgVanessa from '../../img/vanessa.jpg';
 
 import './sobre.css';
 
@@ -27,30 +28,30 @@ export default function Sobre() {
               <Integrante
                 imagem={imgNayra}
                 nome="Nayra Cruz"
-                funcao="Desenvolvedora Front-End e Designer UX"
-                descricao="Trabalho na área web desde 2009. Minha participação principal na BrotherTec é a criação do Design dos projetos e códigos front-end com foco na experiência do usuário."
+                funcao="UI/UX/Front-end/Product Designer"
+                descricao="Meu foco é desenvolver produtos que vão de encontro às necessidades dos usuários, alinhadas ao modelo de negócios e às limitações financeiras e técnicas de cada projeto. Sou uma das mentoras na BrotherTec para nossos cooperados."
               />
             </div>
             <hr className="separador-mobile" />
           </div>
-          <div className="col-12 col-md-6">
+          {/* <div className="col-12 col-md-6">
             <div className="l-integrante">
               <Integrante
                 imagem={imgEverson}
                 nome="Everson França"
                 funcao="Desenvolvedor Fullstack"
-                descricao="Sou um dos idealizadores da empresa, com responsabilidades administrativas e de logística além de ser programador com especialidade em front-end."
+                descricao="Sou um dos idealizadores da cooperativa, com responsabilidades administrativas e de logística além de ser programador com especialidade em front-end."
               />
             </div>
             <hr className="separador-mobile" />
-          </div>
+          </div> */}
           <div className="col-12 col-md-6">
             <div className="l-integrante">
               <Integrante
                 imagem={imgRomulo}
                 nome="Romulo Gomes"
                 funcao="Desenvolvedor"
-                descricao="Atuando na área de TI desde 2015, estive na área de testes, homologação e desenvolvimento de sistemas Java, Node.js e React. Sempre em busca de novos desafios."
+                descricao="Atuo na área de TI desde 2015. Minha especialidade é automação de testes, homologação e desenvolvimento de sistemas Java, Node.js e React. Sempre em busca de novos desafios! Sou um dos mentores na BrotherTec para nossos cooperados."
               />
             </div>
             <hr className="separador-mobile" />
@@ -60,8 +61,18 @@ export default function Sobre() {
               <Integrante
                 imagem={imgRodrigo}
                 nome="Rodrigo Sales"
-                funcao="Desenvolvedor Fullstack"
-                descricao="Trabalho na área de TI desde de 2014, estive atuando com suporte e monitoramento dos ativos de rede e sua estrutura. Em busca de novos desafios, entrei de cabeça nos estudos para ser o melhor desenvolvedor fullstack onde atualmente dedico quase 100% do meu tempo."
+                funcao="Desenvolvedor Full Stack"
+                descricao="Trabalho na área de TI desde de 2014. Iniciei com suporte e monitoramento dos ativos de rede e sua estrutura. Em busca de novos desafios, entrei de cabeça nos estudos para ser o melhor desenvolvedor full stack, onde atualmente dedico quase 100% do meu tempo."
+              />
+            </div>
+          </div>
+          <div className="col-12 col-md-6">
+            <div className="l-integrante">
+              <Integrante
+                imagem={imgVanessa}
+                nome="Vanessa Sousa"
+                funcao="Desenvolvedora front-end e UX/UI designer"
+                descricao="Atuo com tecnologia desde 2015, venho me especializando em front-end e também em UX/UI design. Pronta sempre para novos desafios e para compartilhar conhecimento!"
               />
             </div>
           </div>
