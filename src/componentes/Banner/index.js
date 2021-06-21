@@ -19,7 +19,7 @@ export default function Banner() {
           </h1>
         </div>
         <div className="row">
-          <div className="col-12 col-lg-4">
+          <div className="col-12 col-sm offset-lg-2 col-lg-4">
             <span className="icon-title">Websites</span>
             <img
               className="icon-image website"
@@ -27,17 +27,17 @@ export default function Banner() {
               alt="Website"
             />
           </div>
-          <div className="col-6 col-lg-4">
+          {/* <div className="col-6 col-lg-4">
             <span className="icon-title">Aplicativos</span>
             <img
               className="icon-image"
               src={aplicativosImg}
               alt="Aplicativos"
             />
-          </div>
-          <div className="col-6 col-lg-4">
+          </div> */}
+          <div className="col-12 col-sm col-lg-4">
             <span className="icon-title">Sistemas Web</span>
-            <img className="icon-image" src={sistemasWebImg} alt="Sistemas" />
+            <img className="icon-image website" src={sistemasWebImg} alt="Sistemas" />
           </div>
         </div>
       </div>
