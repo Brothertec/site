@@ -16,9 +16,7 @@ export default function Sobre() {
       <div className="container">
         <h2 className="sobre-titulo">Sobre nós</h2>
         <p className="sobre-descricao">
-          A BrotherTec surgiu da iniciativa de amigos profissionais da área da
-          TI que perceberam que, juntos, possuem habilidades que se completam
-          para desenvolver e conduzir projetos web de sucesso.
+          A <strong>BrotherTec</strong> é uma cooperativa de soluções digitais. Surgiu da iniciativa de amigos profissionais da área de TI que perceberam que, juntos, possuem habilidades que se completam para desenvolver e conduzir projetos de sucesso.
         </p>
         <p className="sobre-descricao">Conheça a equipe:</p>
 
@@ -29,7 +27,7 @@ export default function Sobre() {
                 imagem={imgNayra}
                 nome="Nayra Cruz"
                 funcao="UI/UX/Front-end/Product Designer"
-                descricao="Meu foco é desenvolver produtos que vão de encontro às necessidades dos usuários, alinhadas ao modelo de negócios e às limitações financeiras e técnicas de cada projeto. Sou uma das mentoras na BrotherTec para nossos cooperados."
+                descricao="Meu foco é desenvolver produtos que vão de encontro às necessidades dos usuários, alinhadas ao modelo de negócio e às limitações financeiras e técnicas de cada projeto. Sou uma das mentoras na BrotherTec para nossos cooperados."
               />
             </div>
             <hr className="separador-mobile" />
@@ -51,7 +49,7 @@ export default function Sobre() {
                 imagem={imgEverson}
                 nome="Everson França"
                 funcao="Desenvolvedor Fullstack"
-                descricao="Sou um dos idealizadores da cooperativa. Atuo com programação front-end, iniciando pelo HTML, CSS e JS até o desenvolvimento mais avançado com React e consumo de APIs. Repasso o conhecimento que possuo para os cooperados da BrotherTec."
+                descricao="Sou um dos idealizadores da cooperativa. Atuo com programação front-end, iniciando pelo HTML, CSS e JS até o desenvolvimento mais avançado com React e consumo de APIs. Repasso os conhecimentos que possuo para os cooperados da BrotherTec."
               />
             </div>
             <hr className="separador-mobile" />
@@ -62,7 +60,7 @@ export default function Sobre() {
                 imagem={imgRodrigo}
                 nome="Rodrigo Sales"
                 funcao="Desenvolvedor Full Stack"
-                descricao="Trabalho na área de TI desde de 2014. Iniciei com suporte e monitoramento dos ativos de rede e sua estrutura. Em busca de novos desafios, entrei de cabeça nos estudos para ser o melhor desenvolvedor full stack, onde atualmente dedico quase 100% do meu tempo."
+                descricao="Trabalho na área de TI desde de 2014. Iniciei com suporte e monitoramento dos ativos de rede e sua estrutura. Em busca de novos desafios, entrei de cabeça nos estudos para ser o melhor desenvolvedor full stack, onde, atualmente, dedico quase 100% do meu tempo."
               />
             </div>
           </div>
@@ -72,7 +70,7 @@ export default function Sobre() {
                 imagem={imgVanessa}
                 nome="Vanessa Sousa"
                 funcao="Desenvolvedora front-end e UX/UI designer"
-                descricao="Atuo com tecnologia desde 2015, venho me especializando em front-end e também em UX/UI design. Pronta sempre para novos desafios e para compartilhar conhecimento!"
+                descricao="Atuo com tecnologia desde 2015. Venho me especializando em front-end e também em UX/UI design. Pronta sempre para novos desafios e para compartilhar conhecimento!"
               />
             </div>
           </div>
