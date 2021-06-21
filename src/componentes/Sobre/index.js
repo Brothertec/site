@@ -4,7 +4,7 @@ import Integrante from '../Integrante';
 
 import imgRomulo from '../../img/romulo.jpeg';
 import imgNayra from '../../img/nayra.jpg';
-//import imgEverson from '../../img/everson.jpeg';
+import imgEverson from '../../img/everson.jpeg';
 import imgRodrigo from '../../img/rodrigo.jpg';
 import imgVanessa from '../../img/vanessa.jpg';
 
@@ -34,17 +34,6 @@ export default function Sobre() {
             </div>
             <hr className="separador-mobile" />
           </div>
-          {/* <div className="col-12 col-md-6">
-            <div className="l-integrante">
-              <Integrante
-                imagem={imgEverson}
-                nome="Everson França"
-                funcao="Desenvolvedor Fullstack"
-                descricao="Sou um dos idealizadores da cooperativa, com responsabilidades administrativas e de logística além de ser programador com especialidade em front-end."
-              />
-            </div>
-            <hr className="separador-mobile" />
-          </div> */}
           <div className="col-12 col-md-6">
             <div className="l-integrante">
               <Integrante
@@ -52,6 +41,17 @@ export default function Sobre() {
                 nome="Romulo Gomes"
                 funcao="Desenvolvedor"
                 descricao="Atuo na área de TI desde 2015. Minha especialidade é automação de testes, homologação e desenvolvimento de sistemas Java, Node.js e React. Sempre em busca de novos desafios! Sou um dos mentores na BrotherTec para nossos cooperados."
+              />
+            </div>
+            <hr className="separador-mobile" />
+          </div>
+          <div className="col-12 col-md-6">
+            <div className="l-integrante">
+              <Integrante
+                imagem={imgEverson}
+                nome="Everson França"
+                funcao="Desenvolvedor Fullstack"
+                descricao="Sou um dos idealizadores da cooperativa. Atuo com programação front-end, iniciando pelo HTML, CSS e JS até o desenvolvimento mais avançado com React e consumo de APIs. Repasso o conhecimento que possuo para os cooperados da BrotherTec."
               />
             </div>
             <hr className="separador-mobile" />
