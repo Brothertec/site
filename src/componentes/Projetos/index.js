@@ -26,7 +26,7 @@ export default function Projetos() {
                         <Card imagem={cardImgVitrine}
                             badge="Website e Gerenciador de Conteúdo"
                             titulo="Vitrine CasaPark"
-                            texto="Desenvolvimento do site Vitrine CasaPark com gerenciador para atualizações de conteúdo. Em parceria com a designer Emille Catarine. Principais tecnologias: HTML, CSS, JS, Bootstrap 4, React, MySQL, NodeJS."
+                            texto="Desenvolvimento de duas versões (incluindo a atual) do site Vitrine CasaPark com gerenciador para atualizações de conteúdo. Em parceria com a designer Emille Catarine. Principais tecnologias: HTML, CSS, JS, Bootstrap 4, React, MySQL, NodeJS."
                             botao="https://vitrine.casapark.com.br/" />
                     </div>
                     <div className="col-12 col-md-6 col-lg-4 mb-4">
