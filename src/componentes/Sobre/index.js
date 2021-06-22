@@ -16,7 +16,7 @@ export default function Sobre() {
       <div className="container">
         <h2 className="sobre-titulo">Sobre nós</h2>
         <p className="sobre-descricao">
-          A <strong>BrotherTec</strong> é uma cooperativa de soluções digitais. Surgiu da iniciativa de amigos profissionais da área de TI que perceberam que, juntos, possuem habilidades que se completam para desenvolver e conduzir projetos de sucesso.
+          A <strong>BrotherTec</strong> é uma cooperativa de soluções digitais. Surgiu da iniciativa de amigos profissionais da área de TI que perceberam que, juntos, possuem habilidades que se completam para conduzir e desenvolver projetos digitais.
         </p>
         <p className="sobre-descricao">Conheça a equipe:</p>
 
