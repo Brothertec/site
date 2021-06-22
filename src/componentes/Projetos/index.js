@@ -19,7 +19,7 @@ export default function Projetos() {
                         <Card imagem={cardImgAbcPublica}
                             badge="Portal e e-Commerce"
                             titulo="ABCPública"
-                            texto="Novo Portal da Associação Brasileira de Comunicação Pública. Destaque para espaço de notícias, Biblioteca Digital, Mapa da Regulamentação e estrutura majoritariamente acessível. Principais tecnologias: WordPress, WooCommerce, criação de CPTs, PHP, MySQL, HTML, CSS, JS."
+                            texto="Novo Portal da Associação Brasileira de Comunicação Pública. Destaque para espaço de notícias, Biblioteca Digital, Mapa da Regulamentação e estrutura majoritariamente acessível. Design: Tema + Figma. Principais tecnologias: WordPress, WooCommerce, criação de CPTs, PHP, MySQL, HTML, CSS, JS."
                             botao="https://abcpublica.org.br/" />
                     </div>
                     <div className="col-12 col-md-6 col-lg-4 mb-4">
@@ -47,14 +47,14 @@ export default function Projetos() {
                         <Card imagem={cardImgColegio}
                             badge="Website e Gerenciador de Conteúdo"
                             titulo="Colégio Jardim Getsêmani"
-                            texto="Site totalmente desenvivido pela BrotherTec desde o planejamento, design e programação. Conta com área do aluno, criada em caráter emergencial para acompanhamento de aulas à distância durante o período de isolamento de 2020/2021. Principais tecnologias: Figma (design), HTML, CSS, JS, Bootstrap 4, React, NodeJS."
+                            texto="Site totalmente desenvivido pela BrotherTec desde o planejamento, design e programação. Conta com área do aluno, criada em caráter emergencial para acompanhamento de aulas à distância durante o período de isolamento de 2020/2021. Design: Figma. Principais tecnologias: HTML, CSS, JS, Bootstrap 4, React, NodeJS."
                             /* botao="http://www.colegiojardimgetsemani.com.br/" */ />
                     </div>
                     <div className="col-12 col-md-6 col-lg-4 mb-4">
                         <Card imagem={cardImgDFDist}
                             badge="Website"
                             titulo="DF Distribuidora"
-                            texto="Planejamento, consultoria na organização de conteúdo, design e programação majoritária do site DF Distribuidora. Principais tecnologias: (Figma) Design, HTML, CSS, JS, Bootstrap 4, React."
+                            texto="Planejamento, consultoria na organização de conteúdo, design e programação majoritária do site DF Distribuidora. Design: Figma. Principais tecnologias: HTML, CSS, JS, Bootstrap 4, React."
                             /* botao="http://www.colegiojardimgetsemani.com.br/" */ />
                     </div>
                 </div>
