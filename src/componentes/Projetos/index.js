@@ -19,7 +19,7 @@ export default function Projetos() {
                         <Card imagem={cardImgAbcPublica}
                             badge="Portal e e-Commerce"
                             titulo="ABCPública"
-                            texto="Novo Portal da Associação Brasileira de Comunicação Pública. Destaque para espaço de notícias, Biblioteca Digital, Mapa da Regulamentação e estrutura majoritariamente acessível. Design: Tema + Figma. Principais tecnologias: WordPress, WooCommerce, criação de CPTs, PHP, MySQL, HTML, CSS, JS."
+                            texto="Novo Portal da Associação Brasileira de Comunicação Pública. Destaque para espaço de notícias, Biblioteca Digital, Mapa da Regulamentação e estrutura majoritariamente acessível. Design: Tema + Figma. Principais tecnologias: WordPress com CPTs, WooCommerce, PHP, MySQL, HTML, CSS, JS."
                             botao="https://abcpublica.org.br/" />
                     </div>
                     <div className="col-12 col-md-6 col-lg-4 mb-4">
