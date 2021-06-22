@@ -27,7 +27,7 @@ export default function Sobre() {
                 imagem={imgNayra}
                 nome="Nayra Cruz"
                 funcao="UI/UX/Front-end/Product Designer"
-                descricao="Meu foco é desenvolver produtos que vão de encontro às necessidades dos usuários, alinhadas ao modelo de negócio e às limitações financeiras e técnicas de cada projeto. Sou uma das mentoras na BrotherTec para nossos cooperados."
+                descricao="Meu foco é desenvolver produtos que vão de encontro às necessidades dos usuários, alinhadas ao modelo de negócio e às limitações financeiras e técnicas de cada projeto. Sou entusiasta no assunto Acessibilidade Digital. Nossos cooperados contam com minha mentoria."
               />
             </div>
             <hr className="separador-mobile" />
@@ -38,7 +38,7 @@ export default function Sobre() {
                 imagem={imgRomulo}
                 nome="Romulo Gomes"
                 funcao="Desenvolvedor"
-                descricao="Atuo na área de TI desde 2015. Minha especialidade é automação de testes, homologação e desenvolvimento de sistemas Java, Node.js e React. Sempre em busca de novos desafios! Realizo mentorias para nossos cooperados."
+                descricao="Atuo na área de TI desde 2015. Minha especialidade é automação de testes, homologação e desenvolvimento de sistemas Java, Node.js e React. Sempre em busca de novos desafios! Sou um dos mentores na BrotherTec e líder técnico de projetos."
               />
             </div>
             <hr className="separador-mobile" />

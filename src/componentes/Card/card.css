@@ -12,8 +12,7 @@
 }
 
 .badge-card{
-    width: 60px;
-    height: 22px;
+    width: auto;
     background-color:#818A91;
     border-radius: 4px;
     font-weight: bold;
@@ -25,7 +24,6 @@
 
 @media (min-width: 992px){
     .badge-card{
-        width: 65px;
         margin-top: 4px;
         margin-bottom: 24px;
    

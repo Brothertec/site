@@ -1,7 +1,7 @@
 import React from 'react';
 
 import websiteImg from '../../img/websites.png';
-import aplicativosImg from '../../img/aplicativos.png';
+//import aplicativosImg from '../../img/aplicativos.png';
 import sistemasWebImg from '../../img/sistemas-web.png';
 
 import './banner.css';
