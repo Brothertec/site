@@ -47,7 +47,7 @@ export default function Projetos() {
                         <Card imagem={cardImgColegio}
                             badge="Website e Gerenciador de Conteúdo"
                             titulo="Colégio Jardim Getsêmani"
-                            texto="Site totalmente desenvivido pela BrotherTec o planejamento, design e programação. Conta com área do aluno, criada em caráter emergencial para acompanhamento de aulas à distância durante o período de isolamento de 2020/2021. Principais tecnologias: Figma (design), HTML, CSS, JS, Bootstrap 4, React, NodeJS."
+                            texto="Site totalmente desenvivido pela BrotherTec desde o planejamento, design e programação. Conta com área do aluno, criada em caráter emergencial para acompanhamento de aulas à distância durante o período de isolamento de 2020/2021. Principais tecnologias: Figma (design), HTML, CSS, JS, Bootstrap 4, React, NodeJS."
                             /* botao="http://www.colegiojardimgetsemani.com.br/" */ />
                     </div>
                     <div className="col-12 col-md-6 col-lg-4 mb-4">
