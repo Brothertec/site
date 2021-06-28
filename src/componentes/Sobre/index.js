@@ -16,7 +16,7 @@ export default function Sobre() {
       <div className="container">
         <h2 className="sobre-titulo">Sobre nós</h2>
         <p className="sobre-descricao">
-          A <strong>BrotherTec</strong> é uma cooperativa de soluções digitais. Surgiu da iniciativa de amigos profissionais da área de TI que perceberam que, juntos, possuem habilidades que se completam para conduzir e desenvolver projetos digitais.
+          A <strong>BrotherTec</strong> é uma cooperativa de soluções digitais. Surgiu da iniciativa de amigos profissionais da área de TI que perceberam que, juntos, possuem habilidades que se completam para conduzir e desenvolver projetos digitais. Como cooperados, aproveitamos a oportunidade para estudar, praticar em projetos reais ou de estudo e receber apoio da nossa comunidade. Contamos com profissionais de diferentes níveis de senioridade, que são alocados conforme a complexidade de cada projeto.
         </p>
         <p className="sobre-descricao">Conheça a equipe:</p>
 
