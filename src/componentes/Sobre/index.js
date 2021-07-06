@@ -43,7 +43,7 @@ export default function Sobre() {
             </div>
             <hr className="separador-mobile" />
           </div>
-          <div className="col-12 col-md-6">
+          {/* <div className="col-12 col-md-6">
             <div className="l-integrante">
               <Integrante
                 imagem={imgEverson}
@@ -53,7 +53,7 @@ export default function Sobre() {
               />
             </div>
             <hr className="separador-mobile" />
-          </div>
+          </div> */}
           <div className="col-12 col-md-6">
             <div className="l-integrante">
               <Integrante
